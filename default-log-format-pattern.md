@@ -1,6 +1,6 @@
 # nginx default log format pattern
 
-1. If your log format is default
+If your log format is default
 
 ```
 log_format combined '$remote_addr - $remote_user [$time_local] '
