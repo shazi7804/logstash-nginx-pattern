@@ -1,6 +1,6 @@
 # Logstash grok pattern for nginx
 
-Define logstash grok pattern for nginx log
+Defined logstash grok pattern for nginx log
 
 ## How To
 
